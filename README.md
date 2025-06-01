@@ -14,7 +14,11 @@ Parallax effect is a visual phenomenon where the position or direction of an obj
 ##  To play or edit this game
 Open the EndlessRunner.uproject file using UE5.3
 
+## Inputs
+Simple inputs - Press Space to Jump and avoid the Obstacles
+
 ## Preview
+
 ![Main Menu](./Preview/main_menu.png)
-![Main Menu](./Preview/level1.png)
-![Main Menu](./Preview/game_over.png)
+![level1](./Preview/level1.png)
+![Game Over](./Preview/game_over.png)
